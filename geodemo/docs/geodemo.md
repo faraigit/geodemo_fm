@@ -1,4 +1,0 @@
- 
-# geodemo module
-
-::: geodemo.geodemo

@@ -1,14 +1,14 @@
-# geodemo
+# Welcome to geodemo_fm
 
 
-[![image](https://img.shields.io/pypi/v/geodemo.svg)](https://pypi.python.org/pypi/geodemo)
+[![image](https://img.shields.io/pypi/v/geodemo_fm.svg)](https://pypi.python.org/pypi/geodemo_fm)
 
 
 **This package is used for georeferencing**
 
 
 -   Free software: MIT license
--   Documentation: https://faraigit.github.io/geodemo
+-   Documentation: <https://faraigit.github.io/geodemo_fm>
     
 
 ## Features

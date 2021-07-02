@@ -8,7 +8,7 @@ labels: bug
 
 ### Environment Information
 
--   geodemo version:
+-   geodemo_fm version:
 -   Python version:
 -   Operating System:
 

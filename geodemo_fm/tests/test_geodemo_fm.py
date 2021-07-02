@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 
-"""Tests for `geodemo` package."""
+"""Tests for `geodemo_fm` package."""
 
 
 import unittest
 
-from geodemo import geodemo
+from geodemo_fm import geodemo_fm
 
 
-class TestGeodemo(unittest.TestCase):
-    """Tests for `geodemo` package."""
+class TestGeodemo_fm(unittest.TestCase):
+    """Tests for `geodemo_fm` package."""
 
     def setUp(self):
         """Set up test fixtures, if any."""
