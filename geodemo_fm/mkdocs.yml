@@ -48,4 +48,4 @@ nav:
           - geodemo_fm module: geodemo_fm.md
     - Notebooks: 
             - notebooks/ipyleaflet_intro.ipynb
-            - notebooks/folium_introd.pyynb
+            - notebooks/folium_introd.ipynb
